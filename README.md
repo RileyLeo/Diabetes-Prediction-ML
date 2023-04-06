@@ -2,8 +2,9 @@
 
 ### Python
 
-    Version:  Python 3.9.1
+    Version:  Python 3.9
 
+Make sure correct python version is installed
 ---
 
 ### TL:DR
