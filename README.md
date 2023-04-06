@@ -6,30 +6,30 @@
 
 ---
 
-TL:DR
-1) Clone repo
+### TL:DR
+#### 1) Clone repo
 
-2) Open repo folder in vs code
+#### 2) Open repo folder in vs code
 
-3) Execute this command in the repo directory to generate the virtual envrionment
+#### 3) Execute this command in the repo directory to generate the virtual envrionment
 
-	python -m venv ./venv
+    python -m venv ./venv
 
-4) Activate the generated venv
+#### 4) Activate the generated venv
 
 	source ./venv/Scripts/activate
 
 p/s remove source if you are using vscode powershell
 
-5) Update venv's pip
+#### 5) Update venv's pip
 
 	pip install --upgrade pip
 
-6) Install all required lib from requirements.txt
+#### 6) Install all required lib from requirements.txt
 
 	pip install -r requirements.txt
 	
-7) Done
+#### 7) Done
 ---
 
 ## Steps to creating a 'venv'
