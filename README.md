@@ -16,7 +16,7 @@ Make sure correct python version is installed
 
     python -m venv ./venv
 
-#### 4) Activate the generated venv
+#### 4) Activate the generated venv (run this again if you need to install libraries to the venv)
 
 	source ./venv/Scripts/activate
 
